@@ -1,5 +1,5 @@
 
-gunicorn app:app
+gunicorn
 flask
 gunicorn
 schedule
